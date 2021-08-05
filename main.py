@@ -241,7 +241,7 @@ def main():
             x  ( ._|_. )  /
              x  `.___,'  /
             .-`._     _,'-.
-          ,'  ,' `---' `.  `.
+          ,'  ,' `---' `.  `.[use usa vpn]
       \x1b[35m-----------------------------\x1b[37m
       [1] \x1b[31mGrab Number From Addresses.com\x1b[37m
       [2] \x1b[31mGrab Number From 411.com\x1b[37m
